@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, je suis Lubin !<br>🧑‍💻 À propos de moi<br><br>Je suis un développeur passionné avec une forte expertise en développement web. J'adore créer des solutions innovantes qui résolvent des problèmes réels et contribuent à rendre la vie plus facile et plus amusante. Toujours curieux et avide d'apprendre, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et découvrir de nouvelles technologies.
+👋 Salut, je suis Lubin !<br>🧑‍💻 Venez découvrir mon univers :<br><br>Je suis un développeur fullstack js passionné par l'informatique. J'adore créer des solutions innovantes qui résolvent des problèmes réels et contribuent à rendre la vie plus facile et plus amusante. Toujours curieux et avide d'apprendre, je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et découvrir de nouvelles technologies.
 
 
 ## 🌐 Socials:
